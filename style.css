@@ -1,0 +1,142 @@
+/* FONT-FAMILY */
+/* /* h1{
+    color: red;
+}
+body{
+    font-family:cursive;
+}
+h1,h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.credits {
+    font-family: "Courier New", Courier, 
+    monospace;} */
+    /* PIXELS */
+    /* p{
+        font-size: 50px;
+    } */
+    /* Percenteges */
+    /* p{
+        font-size: 200%;
+    } */
+    /* Defualt size */
+    /* p{
+        font-size: xx-large;
+    } */
+    /* p{
+        font-size: 3em;
+    } */
+    /* Font face */
+    /* @font-face {
+        font-family: test;
+        src: url('./fonts/DancingScript-Medium.ttf');
+    }
+    h1{
+        font-family: test;
+    } */
+    /* FONT WEIGHT */
+    /* p{
+        font-weight: 900;
+    }  */
+    /* FONT STYLE */
+    /* h1{
+        font-style: italic;
+    } */
+    /* Using ID selector */
+    /* #normal{
+        font-style: normal;
+    }
+    #oblique{
+        font-style: oblique;
+    }
+    #italic{
+        font-style: italics;
+    } */
+    /* Text tranformation */
+    /* h1{
+        text-transform: capitalize;
+    } */
+    /* h1{
+        text-transform: lowercase;
+    } */
+    /* h1{
+        text-transform: uppercase;
+    } */
+    /* text-decoration */
+    /* #none{
+        text-decoration: none;
+    }
+    #underline{
+        text-decoration: underline;
+    }
+    #overline{
+        text-decoration: overline;
+    }
+    #linethrough{
+        text-decoration: line-through;
+    }
+    #blink{
+        text-decoration: blink;
+    } */
+    /* leading */
+    /* p{
+        line-height: 20px;
+    } */
+    /* Letter and spacing */
+    /* h1{
+        word-spacing: 10px;
+        letter-spacing: 20px;
+    } */
+    /* Text Align */
+    /*h1{
+        text-align: center;
+    /* }
+    /* p{
+        text-align: justify;
+    } */
+    /* p{
+        text-align: right;
+    } 
+    p{
+        text-align: left;
+    } */
+    /* vertical align */
+    /* img{
+        vertical-align: text-top;
+    } */
+    /* img{
+        vertical-align: bottom;
+    } */
+    /* img{
+        vertical-align: middle;
+    } */
+    /* Text indent */
+    /* p{
+        text-indent: 50px;
+    } */
+    /* Text shadow */
+    /* p{
+        background-color: #eeeeee;
+        color: #666666;
+        text-shadow: 1px 1px 0px #000000;} */
+    /* First letter or line */
+    /* p::first-letter{
+        color:red;
+    } */
+    /* p::first-line{
+        color:mediumseagreen;} */
+        /* Styling links */
+        /* a:link {
+            color: deeppink;
+            text-decoration: none;}
+            a:visited {
+            color: black;}
+            a:hover {
+            color: deeppink;
+            text-decoration: underline;}
+            a:active {
+            color: darkcyan;} */
+            /* Responding user */
+            /* input.btn:hover{
+                background-color:red;
+            } */
